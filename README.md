@@ -10,8 +10,9 @@ It takes a **`.csv`** file, containing records of football matches over the year
 
 - Both are design patterns used for the purpose of code re-use.
 
-- Inheritance => **Is a** Relationship (A `Rectancgle` **is a** `Shape`),
-  Composition => **Has/Have a** Relationship (A `Laptop` **has a** `Cpu`).
+- Inheritance => **Is a** Relationship (A `Rectancgle` **is a** `Shape`).
+
+- Composition => **Has/Have a** Relationship (A `Laptop` **has a** `Cpu`).
 
 ## So, what's better 📈
 
